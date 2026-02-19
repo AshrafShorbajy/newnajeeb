@@ -1,1 +1,0 @@
-ALTER TABLE public.withdrawal_requests ADD COLUMN receipt_url text;

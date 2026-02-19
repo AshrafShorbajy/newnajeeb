@@ -1,1 +1,0 @@
-ALTER TABLE public.group_session_schedules ADD COLUMN title text;

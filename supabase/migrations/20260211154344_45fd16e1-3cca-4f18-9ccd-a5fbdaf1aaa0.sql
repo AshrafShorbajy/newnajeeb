@@ -1,1 +1,0 @@
-ALTER TABLE public.user_roles ADD COLUMN admin_notes text DEFAULT NULL;
